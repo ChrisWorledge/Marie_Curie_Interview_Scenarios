@@ -3,8 +3,8 @@
 We would like you to demonstrate your development skills by delivering a single page web site, based on a set of requirements that match the way we deliver solutions within the digital development team.
 
 * Please timebox your work on this. We don't expect this task should take longer than **2 hours**.
-* You will need a **GitHub account** to clone this (mariecurie-interview-scenarios )repository
-* Please submit your solution in the form of a pull-request
+* You will need a **GitHub account** to clone this (mariecurie-interview-scenarios)repository
+* Please submit your solution in the form of a **pull-request**
 
 During the face-to-face interview we would like to discuss your solution and the approach you took to meeting the acceptance criteria. 
 
@@ -29,23 +29,29 @@ so that I know what support is available to me and how to contact them
 **WHEN I view the Helper Service page**
 
 **AC1: Display**
+
 THEN I want to see a list that contains all Marie Curie Helper Services
 
 **AC2: Detail**
+
 THEN each Helper Service list item will have the following properties: Title - linked to a page (https://www.mariecurie.org.uk/help/helper-volunteers), Description, Telephone number and a currently open / closed status
 
 **AC3: Dynamic status**
+
 THEN I want to see whether the helpline is OPEN or CLOSED with the label copy as per below
 
 OPEN - OPEN TODAY UNTIL `{closing time}`
+
 CLOSED - REOPENS `{day}` at `{opening time}`
 
 **AC4: Visual** 
+
 THEN the Helper Service list item displays a clear visual representation of whether it is the service is open or closed
 
 *Note: Full details of this visual representation required is given in the wireframe / annotations*
 
 **AC5: Telephone**
+
 THEN when I am using a mobile device, I should be able to tap the number to call the number.
 
 ## Technical Brief
