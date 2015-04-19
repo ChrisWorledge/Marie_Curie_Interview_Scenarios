@@ -1,5 +1,16 @@
 # mariecurie-interview-scenarios
 
+We would like you to demonstrate your development skills by delivering a single page web site, based on a set of requirements that match the way we deliver solutions within the digital development team.
+
+* Please timebox your work on this. We don't expect this task should take longer than **2 hours**.
+* You will need a GitHub account to clone the mariecurie-interview-scenario repository
+* Please submit your solution in the form of a pull-request
+
+During the face-to-face interview we would like to discuss your solution and the approach you took to meeting the acceptance criteria. 
+
+*Good luck :)*
+
+## Background
 The Marie Curie Caring Services department wish to better promote their Helper service on the charity's website.
 
 The Helper Service matches trained volunteers with people living with a terminal illness and provides support to them or their families. Support is provided free of charge and is available to people aged 18 or over with any terminal illness, and their families
@@ -13,7 +24,8 @@ As a website user who needs help and support
 I want to be able to find Helper Service
 so that I know what support is available to me and how to contact them 
 
-**Background: GIVEN I am on the Marie Curie website** 
+**Background: GIVEN I am on the Marie Curie website**
+ 
 **WHEN I view the Helper Service page**
 
 **AC1: Display**
@@ -25,8 +37,8 @@ THEN each Helper Service list item will have the following properties: Title - l
 **AC3: Dynamic status**
 THEN I want to see whether the helpline is OPEN or CLOSED with the label copy as per below
 
-OPEN - OPEN TODAY UNTIL <closing time>
-CLOSED - REOPENS <day> at <opening time>
+OPEN - OPEN TODAY UNTIL `{closing time}`
+CLOSED - REOPENS `{day}` at `{opening time}`
 
 **AC4: Visual** 
 THEN the Helper Service list item displays a clear visual representation of whether it is the service is open or closed
