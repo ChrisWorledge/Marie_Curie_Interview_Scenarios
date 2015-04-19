@@ -8,12 +8,12 @@ The Website Scrum team Product Owner and Business Analyst have agreed with the C
 
 ## User Story
 The following user story and acceptance criteria was created and will be used by all The scrum team to design and validate their work.
---
+
 As a website user who needs help and support
 I want to be able to find Helper Service
 so that I know what support is available to me and how to contact them 
 
-### Background: GIVEN I am on the Marie Curie website 
+**Background: GIVEN I am on the Marie Curie website** 
 **WHEN I view the Helper Service page**
 
 **AC1: Display**
@@ -35,7 +35,7 @@ THEN the Helper Service list item displays a clear visual representation of whet
 
 **AC5: Telephone**
 THEN when I am using a mobile device, I should be able to tap the number to call the number.
---
+
 ## Technical Brief
 
 ### Integration
