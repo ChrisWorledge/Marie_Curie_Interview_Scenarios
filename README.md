@@ -3,10 +3,10 @@
 We would like you to demonstrate your development skills by delivering a single page web site, based on a set of requirements that match the way we deliver solutions within our team.
 
 * Please timebox your work on this. We don't expect this task should take longer than **2 hours**.
-* You will need a **GitHub account** to clone this (mariecurie-interview-scenarios)repository
+* You will need a **GitHub account** to clone this (mariecurie-interview-scenarios) repository
 * Please submit your solution in the form of a **pull-request**
 
-During the face-to-face interview we would like to discuss your solution and your approach. We will expect you to demonstrate how the acceptance criteria have been met and also any challenges you faved during development.
+During the face-to-face interview we would like to discuss your solution and your approach. We will expect you to demonstrate how the acceptance criteria have been met and also any challenges you faced during development.
 
 If you have any questions, please get in touch.
 
