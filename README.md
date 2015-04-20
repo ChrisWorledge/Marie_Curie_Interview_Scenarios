@@ -1,12 +1,14 @@
 # mariecurie-interview-scenarios
 
-We would like you to demonstrate your development skills by delivering a single page web site, based on a set of requirements that match the way we deliver solutions within the digital development team.
+We would like you to demonstrate your development skills by delivering a single page web site, based on a set of requirements that match the way we deliver solutions within our team.
 
 * Please timebox your work on this. We don't expect this task should take longer than **2 hours**.
 * You will need a **GitHub account** to clone this (mariecurie-interview-scenarios)repository
 * Please submit your solution in the form of a **pull-request**
 
-During the face-to-face interview we would like to discuss your solution and the approach you took to meeting the acceptance criteria. 
+During the face-to-face interview we would like to discuss your solution and your approach. We will expect you to demonstrate how the acceptance criteria have been met and also any challenges you faved during development.
+
+If you have any questions, please get in touch.
 
 *Good luck :)*
 
@@ -18,7 +20,7 @@ The Helper Service matches trained volunteers with people living with a terminal
 The Website Scrum team Product Owner and Business Analyst have agreed with the Caring Services team that a page will be developed for the website that will list out available Helper Services; show how they can be contacted and dynamically highlight if and when they can be contacted.
 
 ## User Story
-The following user story and acceptance criteria was created and will be used by all The scrum team to design and validate their work.
+The following user story and acceptance criteria was created and will be used by the team to design and validate their work.
 
 As a website user who needs help and support
 I want to be able to find Helper Service
@@ -62,15 +64,15 @@ The Helper Service information is mastered in a back office CRM system and made 
 ### User interface
 Marie Curie use a modified Bootstrap theme for HTML based user interfaces. The theme uses a responsive 12 column grid. A basic layout page has already been built by the front end developer and is included in the source code repository.
 
-A full description and style guide for the front end interfaces is available in our Brand Lab
+A full description and style guide for our front end interfaces is available in our Brand Lab.
 
 [http://mariecurieorguk.azurewebsites.net](http://mariecurieorguk.azurewebsites.net)
 
-Any additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab.
+Additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab.
 
 Both the layout page and additional modules are built against the same style sheet version.
 
-The UX and digital designer and front end developer have produced 
+--
 
 
 
