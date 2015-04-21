@@ -6,7 +6,7 @@ Usage: This repository and scenario is designed as a way to assess team and skil
 We would like you to demonstrate your development skills by delivering a single page web site based on a set of requirements that match the way we deliver solutions within our team.
 
 * Please timebox your work on this. We don't expect this task should take longer than **2 hours**.
-* You will need a **GitHub account** to clone this (mariecurie-interview-scenarios) repository
+* You will need a **GitHub account** to clone this repository (mariecurie-interview-scenarios)
 * Please submit your solution in the form of a **pull-request**
 
 During the face-to-face interview we would like to discuss your solution and your approach. We will expect you to demonstrate how the acceptance criteria have been met and also any challenges you faced during development.
@@ -25,9 +25,9 @@ The Website Scrum team Product Owner and Business Analyst have agreed with the C
 ## User Story
 The following user story and acceptance criteria was created and will be used by the team to design and validate their work.
 
-As a website user who needs help and support
-I want to be able to find Helper Service
-so that I know what support is available to me and how to contact them 
+*"As a website user who needs help and support
+I want to be able to find Helper Services
+so that I know what support is available to me and how to contact them"*
 
 **Background: GIVEN I am on the Marie Curie website**
  
@@ -60,13 +60,13 @@ THEN the Helper Service list item displays a clear visual representation of whet
 THEN when I am using a mobile device, I should be able to tap the number to call the number.
 
 ## Technical Brief
-The team has discussed the user story an has provided the following guidance and assets to help you complete the story.
+The team has discussed the user story and has provided the following guidance and assets to help you complete the story.
 
 ### Integration
 Helper Service information is mastered in a back office CRM system and made available via a C# library. A fellow developer has already included this library in a Nuget package in the repository for you. 
 
 ### Wireframe
-The UX on the project has created the below wireframe, as a guide to the layout of the page and the content hierarchy. Note, the wireframes is not indicative of final design or nomenclature
+The UX on the project has created the wireframe (included below), as a guide to the layout of the page and the content hierarchy. Note, the wireframes is not indicative of final design or nomenclature
 
 ![mariecurie-scenario-wireframe](https://cloud.githubusercontent.com/assets/1429224/7251036/313b7ee0-e81f-11e4-85a6-3b905d8313cc.png)
 
@@ -78,12 +78,9 @@ A full description and style guide for our front end interfaces is available on 
 
 [http://mariecurieorguk.azurewebsites.net](http://mariecurieorguk.azurewebsites.net)
 
-Additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab. These elements are called 'panels' within the pattern library
+Additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab. These elements are called 'panels' and are located within the pattern library
 
 Both the layout page and additional modules are built against the same style sheet version.
-
-
-
 
 
 --
