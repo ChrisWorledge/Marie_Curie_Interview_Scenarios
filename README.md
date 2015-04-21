@@ -1,6 +1,9 @@
 # mariecurie-interview-scenarios
 
-We would like you to demonstrate your development skills by delivering a single page web site, based on a set of requirements that match the way we deliver solutions within our team.
+Usage: This repository and scenario is designed as a way to assess team and skill fit for a backend C# developer within the Marie Curie digital development team.
+
+## Task
+We would like you to demonstrate your development skills by delivering a single page web site based on a set of requirements that match the way we deliver solutions within our team.
 
 * Please timebox your work on this. We don't expect this task should take longer than **2 hours**.
 * You will need a **GitHub account** to clone this (mariecurie-interview-scenarios) repository
@@ -68,7 +71,7 @@ A full description and style guide for our front end interfaces is available in 
 
 [http://mariecurieorguk.azurewebsites.net](http://mariecurieorguk.azurewebsites.net)
 
-Additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab.
+Additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab. These elements are called 'panels' within the pattern library
 
 Both the layout page and additional modules are built against the same style sheet version.
 
