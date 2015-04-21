@@ -60,20 +60,31 @@ THEN the Helper Service list item displays a clear visual representation of whet
 THEN when I am using a mobile device, I should be able to tap the number to call the number.
 
 ## Technical Brief
+The team has discussed the user story an has provided the following guidance and assets to help you complete the story.
 
 ### Integration
-The Helper Service information is mastered in a back office CRM system and made available via a Nuget package containing a C# library. A fellow developer has already included the Nuget package in the repository for you. 
+Helper Service information is mastered in a back office CRM system and made available via a C# library. A fellow developer has already included this library in a Nuget package in the repository for you. 
+
+### Wireframe
+The UX on the project has created the below wireframe, as a guide to the layout of the page and the content hierarchy. Note, the wireframes is not indicative of final design or nomenclature
+
+![mariecurie-scenario-wireframe](https://cloud.githubusercontent.com/assets/1429224/7251036/313b7ee0-e81f-11e4-85a6-3b905d8313cc.png)
+
 
 ### User interface
 Marie Curie use a modified Bootstrap theme for HTML based user interfaces. The theme uses a responsive 12 column grid. A basic layout page has already been built by the front end developer and is included in the source code repository.
 
-A full description and style guide for our front end interfaces is available in our Brand Lab.
+A full description and style guide for our front end interfaces is available on our Brand Lab.
 
 [http://mariecurieorguk.azurewebsites.net](http://mariecurieorguk.azurewebsites.net)
 
 Additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab. These elements are called 'panels' within the pattern library
 
 Both the layout page and additional modules are built against the same style sheet version.
+
+
+
+
 
 --
 
