@@ -1,12 +1,18 @@
 # mariecurie-interview-scenarios
 
-We would like you to demonstrate your development skills by delivering a single page web site, based on a set of requirements that match the way we deliver solutions within the digital development team.
+Usage: This repository and scenario is designed as a way to assess team and skill fit for a backend C# developer within the Marie Curie digital development team.
+
+## Task
+We would like you to demonstrate your development skills by delivering a single page web site based on a set of requirements that match the way we deliver solutions within our team.
 
 * Please timebox your work on this. We don't expect this task should take longer than **2 hours**.
-* You will need a **GitHub account** to clone this (mariecurie-interview-scenarios)repository
+* You will need a **GitHub account** to clone this repository (mariecurie-interview-scenarios)
 * Once you have finished, please zip up your solution and **email it to us**
+=======
 
-During the face-to-face interview we would like to discuss your solution and the approach you took to meeting the acceptance criteria. 
+During the face-to-face interview we would like to discuss your solution and your approach. We will expect you to demonstrate how the acceptance criteria have been met and also any challenges you faced during development.
+
+If you have any questions, please get in touch.
 
 *Good luck :)*
 
@@ -18,11 +24,11 @@ The Helper Service matches trained volunteers with people living with a terminal
 The Website Scrum team Product Owner and Business Analyst have agreed with the Caring Services team that a page will be developed for the website that will list out available Helper Services; show how they can be contacted and dynamically highlight if and when they can be contacted.
 
 ## User Story
-The following user story and acceptance criteria was created and will be used by all The scrum team to design and validate their work.
+The following user story and acceptance criteria was created and will be used by the team to design and validate their work.
 
-As a website user who needs help and support
-I want to be able to find Helper Service
-so that I know what support is available to me and how to contact them 
+*"As a website user who needs help and support
+I want to be able to find Helper Services
+so that I know what support is available to me and how to contact them"*
 
 **Background: GIVEN I am on the Marie Curie website**
  
@@ -55,22 +61,30 @@ THEN the Helper Service list item displays a clear visual representation of whet
 THEN when I am using a mobile device, I should be able to tap the number to call the number.
 
 ## Technical Brief
+The team has discussed the user story and has provided the following guidance and assets to help you complete the story.
 
 ### Integration
-The Helper Service information is mastered in a back office CRM system and made available via a Nuget package containing a C# library. A fellow developer has already included the Nuget package in the repository for you. 
+Helper Service information is mastered in a back office CRM system and made available via a C# library. A fellow developer has already included this library in a Nuget package in the repository for you. 
+
+### Wireframe
+The UX on the project has created the wireframe (included below), as a guide to the layout of the page and the content hierarchy. Note, the wireframes is not indicative of final design or nomenclature
+
+![mariecurie-scenario-wireframe](https://cloud.githubusercontent.com/assets/1429224/7251036/313b7ee0-e81f-11e4-85a6-3b905d8313cc.png)
+
 
 ### User interface
 Marie Curie use a modified Bootstrap theme for HTML based user interfaces. The theme uses a responsive 12 column grid. A basic layout page has already been built by the front end developer and is included in the source code repository.
 
-A full description and style guide for the front end interfaces is available in our Brand Lab
+A full description and style guide for our front end interfaces is available on our Brand Lab.
 
 [http://mariecurieorguk.azurewebsites.net](http://mariecurieorguk.azurewebsites.net)
 
-Any additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab.
+Additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab. These elements are called 'panels' and are located within the pattern library
 
 Both the layout page and additional modules are built against the same style sheet version.
 
-The UX and digital designer and front end developer have produced 
+
+--
 
 
 
