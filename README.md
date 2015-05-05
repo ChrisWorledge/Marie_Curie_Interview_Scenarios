@@ -8,6 +8,7 @@ We would like you to demonstrate your development skills by delivering a single 
 * Please timebox your work on this. We don't expect this task should take longer than **2 hours**.
 * You will need a **GitHub account** to clone this repository (mariecurie-interview-scenarios)
 * Once you have finished, please zip up your solution and **email it to us**
+
 =======
 
 During the face-to-face interview we would like to discuss your solution and your approach. We will expect you to demonstrate how the acceptance criteria have been met and also any challenges you faced during development.
