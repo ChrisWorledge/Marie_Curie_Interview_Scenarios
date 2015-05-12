@@ -1,6 +1,6 @@
 # mariecurie-interview-scenarios
 
-Usage: This repository and scenario is designed as a way to assess team and skill fit for a backend C# developer within the Marie Curie digital development team.
+Usage: This repository and scenario is designed as a way to assess team and skill fit for a C# web developer within the Marie Curie digital development team.
 
 ## Task
 We would like you to demonstrate your development skills by delivering a single page web site based on a set of requirements that match the way we deliver solutions within our team.
@@ -64,8 +64,11 @@ THEN when I am using a mobile device, I should be able to tap the number to call
 ## Technical Brief
 The team has discussed the user story and has provided the following guidance and assets to help you complete the story.
 
+### Stack
+Marie Curie's modern web stack runs using ASP.NET 4.5.1
+
 ### Integration
-Helper Service information is mastered in a back office CRM system and made available via a C# library. A fellow developer has already included this library in a Nuget package in the repository for you. 
+Helper Service information is mastered in a back office CRM system and made available via a C# library built using ASP.NET 4.5.1. A fellow developer has already included this library in a Nuget package in the repository for you. 
 
 ### Wireframe
 The UX on the project has created the wireframe (included below), as a guide to the layout of the page and the content hierarchy. Note, the wireframes is not indicative of final design or nomenclature
