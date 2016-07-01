@@ -81,7 +81,7 @@ Marie Curie use a modified Bootstrap theme for HTML based user interfaces. The t
 
 A full description and style guide for our front end interfaces is available on our Brand Lab.
 
-[http://mariecurieorguk.github.io/patterns/panels/#panels](http://mariecurieorguk.github.io/)
+[http://mariecurieorguk.github.io/](http://mariecurieorguk.github.io/patterns/panels/#panels)
 
 Additional HTML modules necessary for the solution have been pre-built by the front end developer and can be downloaded from the pattern library in the Brand Lab. These elements are called 'panels' and are located within the pattern library
 
